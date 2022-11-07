@@ -17,4 +17,4 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: codereview
-      run: conviso deploy create with values
+      run: conviso deploy create with tag-tracker sort-by time
