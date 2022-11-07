@@ -23,4 +23,4 @@ jobs:
      run: conviso sca run
 
    - name: codereview
-     run: conviso deploy create with tag-tracker sort-by versioning-style
+     run: conviso deploy create with values
