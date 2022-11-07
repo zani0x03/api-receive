@@ -21,3 +21,7 @@ jobs:
 
    - name: Run SCA
      run: conviso sca run
+
+   - name: codereview     
+     Git tree
+     run: conviso deploy create with values   
