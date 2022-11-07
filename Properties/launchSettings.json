@@ -1,0 +1,17 @@
+﻿{
+  "profiles": {
+    "api_receive": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "https://localhost:7031;http://localhost:5192",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "MONGODB": "",
+        "HabbitIp": "192.168.15.33",
+        "HabbitTopicProcess": "process" 
+      }
+    }
+  }
+}
